@@ -1,0 +1,8 @@
+{
+  "name": "impulse-fin",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zheeeng/impulse-fin.git",
+  "author": "Zheeeng <hi@zheeeng.me>",
+  "license": "MIT"
+}
